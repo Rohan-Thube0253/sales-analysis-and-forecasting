@@ -77,6 +77,38 @@ This Power BI dashboard highlights key metrics, trends, and insights from the sa
 
 ---
 
+## ▶️ How to Run
+
+Follow these steps to set up and run the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Rohan-Thube0253/sales-analysis-and-forecasting.git
+   cd sales-analysis-and-forecasting
+   
+2. **Create a virtual environment (recommended)**
+python -m venv venv
+source venv/bin/activate   # On macOS/Linux
+venv\Scripts\activate      # On Windows
+
+
+3. **Install dependencies**
+pip install -r requirements.txt
+
+
+4. **Run the notebooks**
+- Open Jupyter Notebook or Google Colab.
+- Navigate to the notebooks/ folder.
+- Start with the sample dataset provided in data/sample_sales_data.csv.
+
+5. **Reproduce results**
+- Explore the notebooks for EDA, Forecasting (ARIMA, Prophet, XGBoost), and Visualization.
+- View generated charts in the outputs/ folder.
+- Power BI dashboards are included in the assets/ section as screenshots.
+
+
+---
+
 ## 🤝 Contributions
 Pull requests and suggestions are welcome. For major changes, please open an issue first to discuss.  
 
