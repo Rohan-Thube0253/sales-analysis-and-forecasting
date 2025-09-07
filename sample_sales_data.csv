@@ -1,0 +1,201 @@
+Order ID,Product,Quantity Ordered,Price Each,Order Date,Sales,City
+241692,Lightning Charging Cable,2,14.95,26/08/2019 19:56,29.9, Boston
+181615,AAA Batteries (4-pack),1,2.99,16/04/2019 18:10,2.99, Boston
+198235,Apple Airpods Headphones,1,150,08/05/2019 21:28,150, San Francisco
+232041,Lightning Charging Cable,1,14.95,20/07/2019 13:49,14.95, Dallas
+192098,iPhone,1,700,11/04/2019 10:55,700, San Francisco
+236720,Apple Airpods Headphones,1,150,24/08/2019 16:49,150, Dallas
+152894,Apple Airpods Headphones,1,150,18/02/2019 15:03,150, San Francisco
+262695,USB-C Charging Cable,1,11.95,25/10/2019 12:34,11.95, Los Angeles
+226136,AAA Batteries (4-pack),1,2.99,28/07/2019 22:22,2.99, Los Angeles
+271946,AAA Batteries (4-pack),1,2.99,03/10/2019 13:06,2.99, New York City
+206312,Lightning Charging Cable,1,14.95,28/05/2019 16:16,14.95, New York City
+243612,Lightning Charging Cable,1,14.95,16/08/2019 22:59,14.95, Boston
+317353,AA Batteries (4-pack),1,3.84,13/12/2019 15:36,3.84, San Francisco
+156202,Wired Headphones,1,11.99,20/02/2019 15:33,11.99, New York City
+318589,Lightning Charging Cable,1,14.95,22/12/2019 16:02,14.95, New York City
+312516,Wired Headphones,1,11.99,02/12/2019 23:56,11.99, New York City
+143231,USB-C Charging Cable,1,11.95,19/01/2019 00:26,11.95, Los Angeles
+262555,Lightning Charging Cable,1,14.95,23/10/2019 08:23,14.95, Austin
+315879,34in Ultrawide Monitor,1,379.99,01/12/2019 18:03,379.99, Los Angeles
+200705,Macbook Pro Laptop,1,1700,21/05/2019 05:53,1700, San Francisco
+310712,20in Monitor,1,109.99,17/12/2019 20:39,109.99, San Francisco
+290321,Bose SoundSport Headphones,1,99.99,18/11/2019 17:35,99.99, Portland
+238088,Bose SoundSport Headphones,1,99.99,29/08/2019 20:19,99.99, Boston
+301794,Apple Airpods Headphones,1,150,27/12/2019 16:32,150, Boston
+218102,27in 4K Gaming Monitor,1,389.99,03/06/2019 14:22,389.99, Portland
+181982,Apple Airpods Headphones,2,150,22/04/2019 22:51,300, San Francisco
+198530,USB-C Charging Cable,1,11.95,04/05/2019 13:13,11.95, San Francisco
+230438,27in FHD Monitor,1,149.99,10/07/2019 15:27,149.99, Dallas
+152978,Macbook Pro Laptop,1,1700,07/02/2019 12:53,1700, Los Angeles
+273676,AA Batteries (4-pack),4,3.84,07/10/2019 13:14,15.36, Boston
+143819,USB-C Charging Cable,1,11.95,22/01/2019 00:26,11.95, Los Angeles
+262346,Apple Airpods Headphones,1,150,10/10/2019 15:26,150, New York City
+169813,AA Batteries (4-pack),1,3.84,31/03/2019 05:21,3.84, Atlanta
+208632,Vareebadd Phone,1,400,14/05/2019 18:58,400, San Francisco
+317450,Lightning Charging Cable,1,14.95,22/12/2019 12:59,14.95, San Francisco
+274809,AAA Batteries (4-pack),1,2.99,01/10/2019 14:19,2.99, Seattle
+254734,AAA Batteries (4-pack),1,2.99,08/09/2019 16:08,2.99, Los Angeles
+168451,34in Ultrawide Monitor,1,379.99,27/03/2019 11:03,379.99, New York City
+153660,Bose SoundSport Headphones,1,99.99,21/02/2019 22:24,99.99, Dallas
+207329,Wired Headphones,1,11.99,17/05/2019 17:09,11.99, Los Angeles
+153421,Bose SoundSport Headphones,1,99.99,06/02/2019 18:54,99.99, Los Angeles
+272930,AAA Batteries (4-pack),2,2.99,20/10/2019 10:39,5.98, San Francisco
+150879,USB-C Charging Cable,1,11.95,22/02/2019 21:16,11.95, San Francisco
+278141,Macbook Pro Laptop,1,1700,17/10/2019 13:29,1700, Portland
+252362,Google Phone,1,600,12/09/2019 08:14,600, San Francisco
+142658,20in Monitor,1,109.99,26/01/2019 23:09,109.99, Portland
+251185,USB-C Charging Cable,1,11.95,08/09/2019 20:13,11.95, Austin
+294749,Wired Headphones,1,11.99,25/11/2019 21:28,11.99, San Francisco
+170144,Lightning Charging Cable,1,14.95,26/03/2019 13:08,14.95, San Francisco
+142481,27in 4K Gaming Monitor,1,389.99,20/01/2019 16:11,389.99, San Francisco
+254405,Apple Airpods Headphones,1,150,25/09/2019 13:51,150, Los Angeles
+222008,Bose SoundSport Headphones,1,99.99,30/06/2019 22:30,99.99, Seattle
+305842,Apple Airpods Headphones,1,150,15/12/2019 03:12,150, San Francisco
+153051,Flatscreen TV,1,300,10/02/2019 18:25,300, New York City
+253716,Lightning Charging Cable,1,14.95,23/09/2019 17:06,14.95, New York City
+150787,USB-C Charging Cable,1,11.95,19/02/2019 18:20,11.95, New York City
+242526,AA Batteries (4-pack),1,3.84,19/08/2019 14:32,3.84, Boston
+297013,USB-C Charging Cable,1,11.95,10/12/2019 12:02,11.95, Portland
+192187,27in 4K Gaming Monitor,1,389.99,26/04/2019 13:11,389.99, New York City
+277943,Wired Headphones,1,11.99,28/10/2019 22:00,11.99, Boston
+274395,Lightning Charging Cable,1,14.95,12/10/2019 11:12,14.95, San Francisco
+287108,AA Batteries (4-pack),2,3.84,19/11/2019 15:07,7.68, San Francisco
+310243,Flatscreen TV,1,300,29/12/2019 21:05,300, San Francisco
+144761,AA Batteries (4-pack),2,3.84,29/01/2019 12:08,7.68, San Francisco
+157747,Flatscreen TV,1,300,28/02/2019 22:16,300, Dallas
+161544,Google Phone,1,600,12/02/2019 15:35,600, Austin
+163448,Apple Airpods Headphones,1,150,02/03/2019 20:43,150, Portland
+261810,Wired Headphones,1,11.99,07/10/2019 17:45,11.99, Los Angeles
+143830,Flatscreen TV,1,300,25/01/2019 14:41,300, Seattle
+210943,USB-C Charging Cable,1,11.95,30/06/2019 22:59,11.95, Atlanta
+143380,Lightning Charging Cable,1,14.95,05/01/2019 08:36,14.95, San Francisco
+317059,Wired Headphones,1,11.99,30/12/2019 16:55,11.99, Portland
+220443,iPhone,1,700,18/06/2019 14:46,700, Los Angeles
+271779,Google Phone,1,600,03/10/2019 12:30,600, Seattle
+295191,AAA Batteries (4-pack),2,2.99,30/11/2019 16:58,5.98, Dallas
+256277,27in FHD Monitor,1,149.99,28/09/2019 19:41,149.99, New York City
+255253,AAA Batteries (4-pack),1,2.99,16/09/2019 18:46,2.99, Dallas
+237557,Lightning Charging Cable,1,14.95,22/08/2019 22:22,14.95, San Francisco
+182232,34in Ultrawide Monitor,1,379.99,21/04/2019 13:22,379.99, Boston
+171423,iPhone,1,700,15/03/2019 15:12,700, New York City
+310200,Wired Headphones,1,11.99,29/12/2019 18:11,11.99, Boston
+158254,Lightning Charging Cable,1,14.95,17/02/2019 15:39,14.95, San Francisco
+296187,USB-C Charging Cable,1,11.95,21/12/2019 15:45,11.95, San Francisco
+188097,Google Phone,1,600,17/04/2019 10:49,600, Atlanta
+183955,USB-C Charging Cable,1,11.95,18/04/2019 09:57,11.95, Los Angeles
+284363,AAA Batteries (4-pack),1,2.99,06/11/2019 19:13,2.99, San Francisco
+265739,Flatscreen TV,1,300,05/10/2019 17:36,300, Austin
+215914,Lightning Charging Cable,1,14.95,02/06/2019 15:12,14.95, Seattle
+306901,27in 4K Gaming Monitor,1,389.99,23/12/2019 23:15,389.99, Boston
+237129,AAA Batteries (4-pack),1,2.99,26/08/2019 12:57,2.99, San Francisco
+141899,AAA Batteries (4-pack),2,2.99,12/01/2019 22:33,5.98, Portland
+149761,AAA Batteries (4-pack),1,2.99,16/01/2019 13:22,2.99, Dallas
+308818,Lightning Charging Cable,1,14.95,09/12/2019 16:31,14.95, Atlanta
+155665,Lightning Charging Cable,1,14.95,12/02/2019 16:24,14.95, Dallas
+213221,AAA Batteries (4-pack),1,2.99,06/06/2019 14:20,2.99, Atlanta
+172611,Lightning Charging Cable,1,14.95,22/03/2019 13:17,14.95, Portland
+162165,Macbook Pro Laptop,1,1700,12/03/2019 12:32,1700, San Francisco
+240260,AAA Batteries (4-pack),4,2.99,12/08/2019 20:09,11.96, New York City
+309996,iPhone,1,700,14/12/2019 18:56,700, New York City
+240178,ThinkPad Laptop,1,999.99,03/08/2019 10:09,999.99, Seattle
+169354,USB-C Charging Cable,1,11.95,29/03/2019 16:04,11.95, Dallas
+258102,AA Batteries (4-pack),1,3.84,22/09/2019 06:22,3.84, Atlanta
+289724,27in 4K Gaming Monitor,1,389.99,17/11/2019 13:26,389.99, San Francisco
+257187,27in FHD Monitor,1,149.99,13/09/2019 19:38,149.99, Atlanta
+293743,27in 4K Gaming Monitor,1,389.99,25/11/2019 01:28,389.99, Boston
+186819,Wired Headphones,1,11.99,12/04/2019 22:28,11.99, San Francisco
+202876,34in Ultrawide Monitor,1,379.99,22/05/2019 17:53,379.99, Los Angeles
+209121,27in 4K Gaming Monitor,1,389.99,04/05/2019 17:23,389.99, Dallas
+263438,Wired Headphones,1,11.99,30/10/2019 21:47,11.99, Boston
+196826,Lightning Charging Cable,1,14.95,10/05/2019 19:50,14.95, San Francisco
+217082,Apple Airpods Headphones,1,150,05/06/2019 09:42,150, Dallas
+272433,AA Batteries (4-pack),2,3.84,15/10/2019 13:31,7.68, Boston
+222810,20in Monitor,1,109.99,15/06/2019 10:23,109.99, San Francisco
+262649,AAA Batteries (4-pack),1,2.99,09/10/2019 07:37,2.99, San Francisco
+315605,Lightning Charging Cable,1,14.95,11/12/2019 22:33,14.95, Boston
+156837,AA Batteries (4-pack),1,3.84,10/02/2019 16:27,3.84, San Francisco
+208101,iPhone,1,700,22/05/2019 12:54,700, Seattle
+184790,Macbook Pro Laptop,1,1700,01/04/2019 20:34,1700, San Francisco
+233001,Apple Airpods Headphones,1,150,17/07/2019 22:16,150, Austin
+193641,Bose SoundSport Headphones,1,99.99,01/04/2019 11:46,99.99, Los Angeles
+205407,Lightning Charging Cable,1,14.95,24/05/2019 18:09,14.95, San Francisco
+300133,Flatscreen TV,1,300,09/12/2019 20:01,300, San Francisco
+215167,Flatscreen TV,1,300,14/06/2019 10:48,300, Los Angeles
+275274,AA Batteries (4-pack),1,3.84,25/10/2019 19:29,3.84, New York City
+173748,ThinkPad Laptop,1,999.99,09/03/2019 21:08,999.99, New York City
+278837,AA Batteries (4-pack),1,3.84,10/11/2019 16:05,3.84, San Francisco
+160627,AA Batteries (4-pack),1,3.84,03/02/2019 18:14,3.84, San Francisco
+156452,20in Monitor,1,109.99,19/02/2019 10:15,109.99, Seattle
+174392,Wired Headphones,1,11.99,25/03/2019 17:30,11.99, Austin
+186348,Apple Airpods Headphones,1,150,27/04/2019 23:22,150, Portland
+181823,AAA Batteries (4-pack),3,2.99,18/04/2019 20:10,8.97, Dallas
+206171,Vareebadd Phone,1,400,30/05/2019 08:42,400, San Francisco
+189128,Flatscreen TV,1,300,03/04/2019 14:17,300, Dallas
+261615,34in Ultrawide Monitor,1,379.99,28/10/2019 12:29,379.99, Atlanta
+227470,AA Batteries (4-pack),1,3.84,07/07/2019 18:38,3.84, Atlanta
+207027,Wired Headphones,2,11.99,27/05/2019 13:32,23.98, San Francisco
+248024,AAA Batteries (4-pack),1,2.99,12/08/2019 10:16,2.99, Dallas
+281547,27in FHD Monitor,1,149.99,26/11/2019 10:47,149.99, Austin
+142940,20in Monitor,2,109.99,12/01/2019 08:40,219.98, Atlanta
+218947,27in FHD Monitor,1,149.99,30/06/2019 13:19,149.99, Los Angeles
+189067,Apple Airpods Headphones,1,150,22/04/2019 10:59,150, Los Angeles
+311196,Apple Airpods Headphones,1,150,11/12/2019 15:06,150, Seattle
+223501,Lightning Charging Cable,2,14.95,08/07/2019 19:11,29.9, Seattle
+269961,AAA Batteries (4-pack),1,2.99,25/10/2019 16:44,2.99, San Francisco
+192975,Google Phone,1,600,06/04/2019 18:58,600, Boston
+184155,USB-C Charging Cable,1,11.95,21/04/2019 20:00,11.95, Dallas
+145590,Lightning Charging Cable,1,14.95,18/01/2019 14:31,14.95, Los Angeles
+148421,Bose SoundSport Headphones,1,99.99,08/01/2019 12:28,99.99, Portland
+204588,USB-C Charging Cable,1,11.95,08/05/2019 10:33,11.95, Portland
+262855,USB-C Charging Cable,1,11.95,19/10/2019 21:24,11.95, New York City
+178007,iPhone,1,700,14/04/2019 13:54,700, New York City
+305819,AA Batteries (4-pack),1,3.84,16/12/2019 17:34,3.84, Seattle
+187638,34in Ultrawide Monitor,1,379.99,29/04/2019 15:54,379.99, Portland
+266356,Wired Headphones,1,11.99,29/10/2019 21:42,11.99, Boston
+215573,Apple Airpods Headphones,1,150,05/06/2019 09:51,150, Los Angeles
+280779,27in FHD Monitor,1,149.99,24/11/2019 15:13,149.99, San Francisco
+198505,Apple Airpods Headphones,1,150,25/05/2019 09:23,150, Boston
+277475,Apple Airpods Headphones,1,150,17/10/2019 12:24,150, San Francisco
+277448,27in 4K Gaming Monitor,1,389.99,26/10/2019 12:04,389.99, San Francisco
+186727,Lightning Charging Cable,1,14.95,17/04/2019 22:31,14.95, New York City
+222040,Wired Headphones,1,11.99,19/06/2019 21:24,11.99, New York City
+204922,Bose SoundSport Headphones,1,99.99,31/05/2019 10:51,99.99, New York City
+192471,Bose SoundSport Headphones,1,99.99,27/04/2019 09:47,99.99, Los Angeles
+231524,Apple Airpods Headphones,1,150,04/07/2019 17:55,150, Los Angeles
+195357,AA Batteries (4-pack),1,3.84,22/05/2019 19:03,3.84, Portland
+154304,Google Phone,1,600,02/02/2019 11:28,600, Boston
+192960,USB-C Charging Cable,1,11.95,03/04/2019 17:02,11.95, Boston
+161737,AA Batteries (4-pack),1,3.84,09/02/2019 10:51,3.84, San Francisco
+213943,USB-C Charging Cable,1,11.95,18/06/2019 11:42,11.95, San Francisco
+166050,Apple Airpods Headphones,1,150,13/03/2019 11:04,150, San Francisco
+222195,Apple Airpods Headphones,1,150,25/06/2019 23:03,150, Portland
+215763,Apple Airpods Headphones,1,150,20/06/2019 19:08,150, Los Angeles
+277787,Apple Airpods Headphones,1,150,07/10/2019 18:06,150, Boston
+174800,USB-C Charging Cable,1,11.95,18/03/2019 19:03,11.95, Boston
+306851,AA Batteries (4-pack),1,3.84,01/12/2019 18:31,3.84, New York City
+193659,Lightning Charging Cable,2,14.95,02/04/2019 07:41,29.9, Portland
+195446,USB-C Charging Cable,1,11.95,06/05/2019 11:07,11.95, Los Angeles
+147500,Bose SoundSport Headphones,2,99.99,06/01/2019 12:55,199.98, Los Angeles
+204577,Apple Airpods Headphones,1,150,28/05/2019 08:17,150, San Francisco
+313463,USB-C Charging Cable,1,11.95,05/12/2019 17:41,11.95, Seattle
+261619,34in Ultrawide Monitor,1,379.99,25/10/2019 10:43,379.99, Los Angeles
+207385,USB-C Charging Cable,1,11.95,22/05/2019 10:56,11.95, Boston
+234897,AAA Batteries (4-pack),1,2.99,24/07/2019 15:03,2.99, San Francisco
+192898,Wired Headphones,1,11.99,11/04/2019 09:14,11.99, Seattle
+270796,USB-C Charging Cable,1,11.95,21/10/2019 16:18,11.95, Los Angeles
+215265,iPhone,1,700,30/06/2019 11:47,700, Boston
+191191,Apple Airpods Headphones,1,150,23/04/2019 13:54,150, Los Angeles
+145140,Vareebadd Phone,1,400,08/01/2019 12:53,400, Portland
+247142,Apple Airpods Headphones,1,150,26/08/2019 13:34,150, New York City
+209372,27in FHD Monitor,1,149.99,01/05/2019 12:18,149.99, San Francisco
+270739,Macbook Pro Laptop,1,1700,07/10/2019 17:07,1700, Atlanta
+269700,AAA Batteries (4-pack),2,2.99,07/10/2019 18:52,5.98, Los Angeles
+309024,iPhone,1,700,04/12/2019 17:19,700, San Francisco
+267392,Wired Headphones,1,11.99,21/10/2019 20:12,11.99, New York City
+314333,Wired Headphones,1,11.99,09/12/2019 11:43,11.99, Dallas
+167193,AA Batteries (4-pack),1,3.84,09/03/2019 11:08,3.84, Austin
+274801,27in 4K Gaming Monitor,1,389.99,20/10/2019 13:25,389.99, Seattle
+163152,Lightning Charging Cable,2,14.95,23/03/2019 10:36,29.9, New York City
+176130,AAA Batteries (4-pack),1,2.99,11/03/2019 19:41,2.99, Portland
+223880,USB-C Charging Cable,1,11.95,16/07/2019 19:21,11.95, Los Angeles
