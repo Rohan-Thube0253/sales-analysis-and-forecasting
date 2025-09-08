@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.9+-yellow.svg)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboards-orange)
+
 # Sales Forecasting and Analysis
 
 ## 📌 Project Overview
