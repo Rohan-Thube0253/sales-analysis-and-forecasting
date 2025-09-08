@@ -57,13 +57,13 @@ This work was part of my **Sales Performance & Forecasting project**, where I co
 
 ## 📂 Project Structure  
 sales-forecasting-and-analysis/
-│── notebooks/ # Jupyter/Colab notebooks for exploration and modeling
-│── src/ # Python scripts for data processing & forecasting
-│── data/ # (excluded) raw/private data
-│── outputs/ # charts, model results, and exports
-│── assets/ # images for README and documentation
-│── README.md # project documentation
-│── requirements.txt # Python dependencies
+- │── notebooks/ # Jupyter/Colab notebooks for exploration and modeling
+- │── src/ # Python scripts for data processing & forecasting
+- │── data/ # (excluded) raw/private data
+- │── outputs/ # charts, model results, and exports
+- │── assets/ # images for README and documentation
+- │── README.md # project documentation
+- │── requirements.txt # Python dependencies
 │── .gitignore # files to ignore
 
 
@@ -102,10 +102,14 @@ pip install -r requirements.txt
 
 4. **Run the notebooks**
 - Open Jupyter Notebook or Google Colab.
-- Navigate to the notebooks/ folder.
-- Start with the sample dataset provided in data/sample_sales_data.csv.
+- Open the notebook: notebooks/00_quick_start.ipynb.
+- Run all cells to load the sample dataset (data/sample_sales_data.csv), plot sales trends, and generate a forecast.
 
-5. **Reproduce results**
+5. View outputs
+- Generated charts (e.g., monthly_sales.png, prophet_forecast.png) will be saved in the outputs/ folder.
+- Power BI dashboard screenshots are available in the assets/ folder.
+
+6. **Reproduce results**
 - Explore the notebooks for EDA, Forecasting (ARIMA, Prophet, XGBoost), and Visualization.
 - View generated charts in the outputs/ folder.
 - Power BI dashboards are included in the assets/ section as screenshots.
