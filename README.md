@@ -105,8 +105,34 @@ pip install -r requirements.txt
 - Open the notebook: notebooks/00_quick_start.ipynb.
 - Run all cells to load the sample dataset (data/sample_sales_data.csv), plot sales trends, and generate a forecast.
 
-5. View outputs
+5. **View outputs**
 - Generated charts (e.g., monthly_sales.png, prophet_forecast.png) will be saved in the outputs/ folder.
+- ## 📊 Outputs
+
+Here are some of the key charts generated from the sample sales dataset.  
+All files are saved in the `outputs/` folder.
+
+### 1. Monthly Sales Trend
+![Monthly Sales](outputs/monthly_sales.png)
+
+### 2. Top 10 Products by Sales
+![Top Products](outputs/top_products.png)
+
+### 3. Top 10 Cities by Sales
+![Top Cities](outputs/top_cities.png)
+
+### 4. Sales by Hour of Day
+![Sales by Hour](outputs/sales_by_hour.png)
+
+### 5. Top 10 Products by Quantity Sold
+![Top Products Quantity](outputs/top_products_quantity.png)
+
+### 6. Cumulative Sales Over Time
+![Cumulative Sales](outputs/cumulative_sales.png)
+
+### 7. Price vs Quantity Scatter
+![Price vs Quantity](outputs/price_vs_quantity.png)
+
 - Power BI dashboard screenshots are available in the assets/ folder.
 
 6. **Reproduce results**
